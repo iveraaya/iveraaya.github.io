@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iveraaya.github.io/GOc/sitemap_index.txt
+Sitemap: https://iveraaya.github.io/gUH/sitemap_index.txt
+Sitemap: https://iveraaya.github.io/hYq/sitemap_index.txt
+Sitemap: https://iveraaya.github.io/jJR/sitemap_index.txt
